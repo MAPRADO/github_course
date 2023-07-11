@@ -1,3 +1,5 @@
 Este é um arquivo de teste.
 
 Está é uma alteração adicional.
+
+Está alteração é para entender os comandos de desfazer.
