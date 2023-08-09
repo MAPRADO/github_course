@@ -5,5 +5,3 @@ Está é uma alteração adicional.
 Está alteração é para entender os comandos de desfazer.
 
 Esta alteração é para subir um commit no github.
-
-Nnonononononononono!!!
